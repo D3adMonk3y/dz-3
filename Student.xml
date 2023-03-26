@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+  <name>John Doe</name>
+  <age>20</age>
+  <gender>male</gender>
+  <email>johndoe@example.com</email>
+  <student_id>S000123</student_id>
+  <address>
+    <street>123 Main St</street>
+    <city>Anytown</city>
+    <state>CA</state>
+    <zip>12345</zip>
+  </address>
+  <phone_numbers>
+    <phone_number>
+      <type>home</type>
+      <number>123-456-7890</number>
+    </phone_number>
+    <phone_number>
+      <type>mobile</type>
+      <number>555-555-5555</number>
+    </phone_number>
+  </phone_numbers>
+  <grades>
+    <math>85</math>
+    <english>90</english>
+    <history>80</history>
+  </grades>
+  <enrolled_courses>
+    <course>Mathematics</course>
+    <course>English</course>
+    <course>History</course>
+  </enrolled_courses>
+  <major>Computer Science</major>
+  <emergency_contact>
+     <name>Jane Smith</name>
+     <relation>Mother</relation>
+     <phone>987-654-3210</phone>
+   </emergency_contact>
+</student>
