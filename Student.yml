@@ -1,0 +1,29 @@
+student:
+  name: John Doe
+  age: 20
+  gender: male
+  email: johndoe@example.com
+  student_id: S000123
+  address:
+    street: 123 Main St
+    city: Anytown
+    state: CA
+    zip: '12345'
+  phone_numbers:
+    - type: home
+      number: '123-456-7890'
+    - type: mobile
+      number: '555-555-5555'
+  grades:
+    math: 85
+    english: 90
+    history: 80
+  enrolled_courses:
+    - Mathematics
+    - English
+    - History
+  major: Computer Science
+  emergency_contact:
+    name: Jane Smith
+    relation: Mother
+    phone: "987-654-3210"
